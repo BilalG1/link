@@ -1,0 +1,7 @@
+name = "link"
+main = "src/index.js"
+compatibility_date = "2022-05-18"
+
+kv_namespaces = [
+  { binding = "LINKS", id = "5d84c0e8af1e42b9a84d48966db05c55", preview_id = "9b078b9af4664053a2f0aaac607d313e" }
+]
